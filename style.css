@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 10px;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    text-transform: uppercase;
+    color: rgb(0, 128, 85);
+}
+
+input {
+    width: 40%;
+    background-color: blanchedalmond;
+    font-size: 1.4rem;
+    padding: 10px;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+button {
+    padding: 10px 40px;
+    background-color: rgb(117, 122, 107);
+    font-size: 1.3rem;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+    color: mediumspringgreen;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: rgb(252, 0, 118);
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.cont {
+    margin-left: 100px;
+}
